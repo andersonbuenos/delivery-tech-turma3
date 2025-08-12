@@ -1,0 +1,9 @@
+com\deliverytech\delivery_api\dto\response\ClienteResponse.class
+com\deliverytech\delivery_api\repository\ClienteRepository.class
+com\deliverytech\delivery_api\model\Cliente$ClienteBuilder.class
+com\deliverytech\delivery_api\DeliveryApiApplication.class
+com\deliverytech\delivery_api\service\impl\ClienteServiceImpl.class
+com\deliverytech\delivery_api\model\Cliente.class
+com\deliverytech\delivery_api\controller\ClienteController.class
+com\deliverytech\delivery_api\service\ClienteService.class
+com\deliverytech\delivery_api\dto\request\ClienteRequest.class
