@@ -36,5 +36,5 @@ Sistema de delivery desenvolvido com Spring Boot e Java 21.
 
 ## 👨‍💻 Desenvolvedor
 
-[Anderson Buenos] - [Turma 3 - 58A]
+[Anderson Buenos] - [Turma Top t3 - 58A]
 Desenvolvido com JDK 21 e Spring Boot 3.5.4
